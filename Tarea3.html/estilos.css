@@ -1,0 +1,33 @@
+body{
+	color: #A7FFF2;
+	background-color: #010504;
+}
+h1{
+	font-size: 3em;
+	text-align: center;
+	padding: 10px;
+	margin: 0 auto;
+	background-color: #000B74;
+	width: 80%;
+	border-radius: 15px;
+}
+a{
+	text-decoration: none;
+	font-weight: bold;
+	color: #53BB74 ;
+	border: 2px solid blue;
+	border-radius: 10px;
+	background-color: papayawhip;
+	padding: 5px;
+}
+a: hover{
+	background-color: sandybrown;
+}
+
+ul{
+	list-style: none;
+}
+li{
+	margin: 15px;
+	padding: 5px;
+}
